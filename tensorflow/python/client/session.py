@@ -564,7 +564,7 @@ class _DeviceAttributes(object):
         self.memory_limit_bytes,
     )
 
-
+//@Ailias Session的主要实现基类。
 class BaseSession(SessionInterface):
   """A class for interacting with a TensorFlow computation.
 
